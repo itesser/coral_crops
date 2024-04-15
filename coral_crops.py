@@ -59,6 +59,7 @@ def gib_crops(date, rank, season, exclude_crops=[], pps=300, multi=True):
         pps = 300
         
     record = {}
+    record['timestamp'] = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
     record["date"] = date
     record['season'] = season
     record['rank'] = rank
@@ -66,7 +67,6 @@ def gib_crops(date, rank, season, exclude_crops=[], pps=300, multi=True):
     record['pps'] = pps
     record['multi'] = multi
     record['result'] = rec_crops
-    record['timestamp'] = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
 
     return record
 
@@ -134,9 +134,8 @@ if st.button("Calculate Crops"):
         st.write("No seeds are available with your budget. :(")
     else:
         record = gib_crops(date, rank, season, exclude_crops, pps, multi)
-        with open("inputs.csv", "a") as f:
-            writer = csv.writer(f)
-            writer.writerow(record.values())
+        for k, v in record.items():
+            print(k,v)
         for plant in record['result']:
             st.write(
                 f"{plant['seed'].title()} ({round(plant['daily_profit'], 2)}g profit per day) "
