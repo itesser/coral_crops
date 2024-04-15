@@ -1,5 +1,7 @@
 import pandas as pd
 import streamlit as st
+from datetime import datetime
+import csv
 
 pd.options.mode.copy_on_write = True
 
@@ -55,7 +57,18 @@ def gib_crops(date, rank, season, exclude_crops=[], pps=300, multi=True):
         avail_days = avail_days - working_df["days"].iloc[0]
         rec_crops.append(plant_this)
         pps = 300
-    return rec_crops
+        
+    record = {}
+    record["date"] = date
+    record['season'] = season
+    record['rank'] = rank
+    record['exclude'] = exclude_crops
+    record['pps'] = pps
+    record['multi'] = multi
+    record['result'] = rec_crops
+    record['timestamp'] = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
+
+    return record
 
 def avail_crop_list(rank, season):
     working_df = seed_df[seed_df["season"] == season]  # specific season
@@ -120,8 +133,11 @@ if st.button("Calculate Crops"):
     if pps <= 15:
         st.write("No seeds are available with your budget. :(")
     else:
-        plant_these = gib_crops(date, rank, season, exclude_crops, pps, multi)
-        for plant in plant_these:
+        record = gib_crops(date, rank, season, exclude_crops, pps, multi)
+        with open("inputs.csv", "a") as f:
+            writer = csv.writer(f)
+            writer.writerow(record.values())
+        for plant in record['result']:
             st.write(
                 f"{plant['seed'].title()} ({round(plant['daily_profit'], 2)}g profit per day) "
             )
