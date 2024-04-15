@@ -1,0 +1,196 @@
+name,days,harvest,season,size,town_rank,seed,seed_buy_price,sell_price,sale_value,profit_per_day,is_mult_har
+amaranth,8,1,fall,1x1,5,Amaranth seeds,25,24,24,-0.125,True
+amaranth,13,2,fall,1x1,5,Amaranth seeds,25,24,48,1.7692307692307692,True
+amaranth,18,3,fall,1x1,5,Amaranth seeds,25,24,72,2.611111111111111,True
+amaranth,23,4,fall,1x1,5,Amaranth seeds,25,24,96,3.0869565217391304,True
+amaranth,28,5,fall,1x1,5,Amaranth seeds,25,24,120,3.392857142857143,True
+artichoke,8,1,fall,1x1,4,Artichoke seeds,45,29,29,-2.0,True
+artichoke,12,2,fall,1x1,4,Artichoke seeds,45,29,58,1.0833333333333333,True
+artichoke,16,3,fall,1x1,4,Artichoke seeds,45,29,87,2.625,True
+artichoke,20,4,fall,1x1,4,Artichoke seeds,45,29,116,3.55,True
+artichoke,24,5,fall,1x1,4,Artichoke seeds,45,29,145,4.166666666666667,True
+artichoke,28,6,fall,1x1,4,Artichoke seeds,45,29,174,4.607142857142857,True
+barley,8,1,fall,1x1,4,Barley seeds,100,118,118,2.25,False
+basil,5,1,fall,1x1,5,Basil seeds,20,39,39,3.8,False
+beet,6,1,fall,1x1,5,Beet seeds,20,52,52,5.333333333333333,False
+gardenia,5,1,summer,1x1,6,Gardenia seeds,20,45,45,5.0,False
+bellpepper,12,2,summer,1x1,5,Bell pepper seeds,70,47,94,2.0,True
+bellpepper,16,3,summer,1x1,5,Bell pepper seeds,70,47,141,4.4375,True
+bellpepper,20,4,summer,1x1,5,Bell pepper seeds,70,47,188,5.9,True
+bellpepper,24,5,summer,1x1,5,Bell pepper seeds,70,47,235,6.875,True
+bellpepper,28,6,summer,1x1,5,Bell pepper seeds,70,47,282,7.571428571428571,True
+wheat,5,1,summer,1x1,6,Wheat seeds,15,33,33,3.6,False
+blackberry,15,2,summer,1x1,4,Blackberry seeds,40,41,82,2.8,True
+blackberry,19,3,summer,1x1,4,Blackberry seeds,40,41,123,4.368421052631579,True
+blackberry,23,4,summer,1x1,4,Blackberry seeds,40,41,164,5.391304347826087,True
+blackberry,27,5,summer,1x1,4,Blackberry seeds,40,41,205,6.111111111111111,True
+blue dahlia,4,1,fall,1x1,4,Blue dahlia seeds,50,80,80,7.5,False
+radish,6,1,spring,1x1,5,Radish seeds,60,119,119,9.833333333333334,False
+radish,6,1,summer,1x1,5,Radish seeds,60,119,119,9.833333333333334,False
+blueberry,14,2,summer,1x1,6,Blueberry seeds,50,41,82,2.2857142857142856,True
+blueberry,18,3,summer,1x1,6,Blueberry seeds,50,41,123,4.055555555555555,True
+blueberry,22,4,summer,1x1,6,Blueberry seeds,50,41,164,5.181818181818182,True
+blueberry,26,5,summer,1x1,6,Blueberry seeds,50,41,205,5.961538461538462,True
+bok choy,8,1,fall,1x1,4,Bok choy seeds,60,126,126,8.25,False
+cactus,13,1,fall,1x1,2,Cactus flower seeds,300,400,400,7.6923076923076925,False
+snowdrop,12,1,spring,1x1,3,Snowdrop seeds,45,125,125,6.666666666666667,False
+snowdrop,12,1,winter,1x1,3,Snowdrop seeds,45,125,125,6.666666666666667,False
+peas,11,1,spring,1x1,4,Pea seeds,45,59,59,1.2727272727272727,True
+cauliflower,10,1,spring,1x1,6,Cauliflower seeds,70,175,175,10.5,False
+rose,6,1,summer,1x1,4,Rose seeds,20,51,51,5.166666666666667,False
+coffee bean,13,2,summer,1x1,4,Coffee seeds,70,25,50,-1.5384615384615385,True
+coffee bean,15,3,summer,1x1,4,Coffee seeds,70,25,75,0.3333333333333333,True
+coffee bean,17,4,summer,1x1,4,Coffee seeds,70,25,100,1.7647058823529411,True
+coffee bean,19,5,summer,1x1,4,Coffee seeds,70,25,125,2.8947368421052633,True
+coffee bean,21,6,summer,1x1,4,Coffee seeds,70,25,150,3.8095238095238093,True
+coffee bean,23,7,summer,1x1,4,Coffee seeds,70,25,175,4.565217391304348,True
+coffee bean,25,8,summer,1x1,4,Coffee seeds,70,25,200,5.2,True
+coffee bean,27,9,summer,1x1,4,Coffee seeds,70,25,225,5.7407407407407405,True
+hot pepper,7,1,summer,1x1,6,Hot pepper seeds,40,36,36,-0.5714285714285714,True
+corn,16,2,summer,1x1,6,Corn seeds,25,24,48,1.4375,True
+corn,20,3,summer,1x1,6,Corn seeds,25,24,72,2.35,True
+corn,24,4,summer,1x1,6,Corn seeds,25,24,96,2.9583333333333335,True
+corn,28,5,summer,1x1,6,Corn seeds,25,24,120,3.392857142857143,True
+cotton,9,1,fall,1x1,3,Cotton seed,50,105,105,6.111111111111111,False
+cotton,9,1,winter,1x1,3,Cotton seed,50,105,105,6.111111111111111,False
+cranberry,5,1,fall,1x1,6,Cranberry seeds,20,18,18,-0.4,True
+cranberry,7,2,fall,1x1,6,Cranberry seeds,20,18,36,2.2857142857142856,True
+cranberry,9,3,fall,1x1,6,Cranberry seeds,20,18,54,3.7777777777777777,True
+cranberry,11,4,fall,1x1,6,Cranberry seeds,20,18,72,4.7272727272727275,True
+cranberry,13,5,fall,1x1,6,Cranberry seeds,20,18,90,5.384615384615385,True
+cranberry,15,6,fall,1x1,6,Cranberry seeds,20,18,108,5.866666666666666,True
+cranberry,17,7,fall,1x1,6,Cranberry seeds,20,18,126,6.235294117647059,True
+cranberry,19,8,fall,1x1,6,Cranberry seeds,20,18,144,6.526315789473684,True
+cranberry,21,9,fall,1x1,6,Cranberry seeds,20,18,162,6.761904761904762,True
+cranberry,23,10,fall,1x1,6,Cranberry seeds,20,18,180,6.956521739130435,True
+cranberry,25,11,fall,1x1,6,Cranberry seeds,20,18,198,7.12,True
+cranberry,27,12,fall,1x1,6,Cranberry seeds,20,18,216,7.2592592592592595,True
+strawberry,10,1,spring,1x1,4,Strawberry seeds,145,102,102,-4.3,True
+cucumber,12,2,spring,1x1,5,Cucumber seeds,25,41,82,4.75,True
+cucumber,15,3,spring,1x1,5,Cucumber seeds,25,41,123,6.533333333333333,True
+cucumber,18,4,spring,1x1,5,Cucumber seeds,25,41,164,7.722222222222222,True
+cucumber,21,5,spring,1x1,5,Cucumber seeds,25,41,205,8.571428571428571,True
+cucumber,24,6,spring,1x1,5,Cucumber seeds,25,41,246,9.208333333333334,True
+cucumber,27,7,spring,1x1,5,Cucumber seeds,25,41,287,9.703703703703704,True
+cucumber,9,1,spring,1x1,5,Cucumber seeds,25,41,41,1.7777777777777777,True
+eggplant,9,1,fall,1x1,6,Eggplant seeds,35,36,36,0.1111111111111111,True
+eggplant,12,2,fall,1x1,6,Eggplant seeds,35,36,72,3.0833333333333335,True
+eggplant,15,3,fall,1x1,6,Eggplant seeds,35,36,108,4.866666666666666,True
+eggplant,18,4,fall,1x1,6,Eggplant seeds,35,36,144,6.055555555555555,True
+eggplant,21,5,fall,1x1,6,Eggplant seeds,35,36,180,6.904761904761905,True
+eggplant,24,6,fall,1x1,6,Eggplant seeds,35,36,216,7.541666666666667,True
+eggplant,27,7,fall,1x1,6,Eggplant seeds,35,36,252,8.037037037037036,True
+fairy rose,8,1,fall,1x1,3,Fairy rose seeds,135,171,171,4.5,False
+bellpepper,8,1,summer,1x1,5,Bell pepper seeds,70,47,47,-2.875,True
+garlic,9,1,fall,1x1,3,Garlic seeds,30,110,110,8.88888888888889,False
+grape,9,1,fall,1x1,4,Grape seeds,150,73,73,-8.555555555555555,True
+grape,15,2,fall,1x1,4,Grape seeds,150,73,146,-0.26666666666666666,True
+grape,21,3,fall,1x1,4,Grape seeds,150,73,219,3.2857142857142856,True
+grape,27,4,fall,1x1,4,Grape seeds,150,73,292,5.2592592592592595,True
+sunflower,8,1,summer,1x1,6,Sunflower seeds,20,70,70,6.25,False
+hot pepper,10,2,summer,1x1,6,Hot pepper seeds,40,36,72,3.2,True
+hot pepper,13,3,summer,1x1,6,Hot pepper seeds,40,36,108,5.230769230769231,True
+hot pepper,16,4,summer,1x1,6,Hot pepper seeds,40,36,144,6.5,True
+hot pepper,19,5,summer,1x1,6,Hot pepper seeds,40,36,180,7.368421052631579,True
+hot pepper,22,6,summer,1x1,6,Hot pepper seeds,40,36,216,8.0,True
+hot pepper,25,7,summer,1x1,6,Hot pepper seeds,40,36,252,8.48,True
+hot pepper,28,8,summer,1x1,6,Hot pepper seeds,40,36,288,8.857142857142858,True
+hot pepper,31,9,summer,1x1,6,Hot pepper seeds,40,36,324,9.161290322580646,True
+hot pepper,34,10,summer,1x1,6,Hot pepper seeds,40,36,360,9.411764705882353,True
+hot pepper,37,11,summer,1x1,6,Hot pepper seeds,40,36,396,9.621621621621621,True
+hot pepper,40,12,summer,1x1,6,Hot pepper seeds,40,36,432,9.8,True
+hot pepper,43,13,summer,1x1,6,Hot pepper seeds,40,36,468,9.953488372093023,True
+hot pepper,46,14,summer,1x1,6,Hot pepper seeds,40,36,504,10.08695652173913,True
+hot pepper,49,15,summer,1x1,6,Hot pepper seeds,40,36,540,10.204081632653061,True
+hot pepper,52,16,summer,1x1,6,Hot pepper seeds,40,36,576,10.307692307692308,True
+hot pepper,55,17,summer,1x1,6,Hot pepper seeds,40,36,612,10.4,True
+lily,9,1,fall,1x1,4,Lily seeds,60,149,149,9.88888888888889,False
+lily,9,1,summer,1x1,4,Lily seeds,60,149,149,9.88888888888889,False
+carrot,7,1,spring,1x1,6,Carrot seeds,35,78,78,6.142857142857143,False
+okra,9,1,summer,1x1,5,Okra seeds,60,59,59,-0.1111111111111111,True
+pineapple,9,1,summer,1x1,4,Pineapple seeds,110,201,201,10.11111111111111,False
+red cabbage,9,1,summer,1x1,4,Red cabbage seeds,45,106,106,6.777777777777778,False
+okra,15,2,summer,1x1,5,Okra seeds,60,59,118,3.8666666666666667,True
+okra,21,3,summer,1x1,5,Okra seeds,60,59,177,5.571428571428571,True
+okra,27,4,summer,1x1,5,Okra seeds,60,59,236,6.518518518518518,True
+orchid,8,1,fall,1x1,6,Orchid seeds,75,130,130,6.875,False
+poppy,7,1,spring,1x1,5,Poppy seeds,30,82,82,7.428571428571429,False
+peas,15,2,spring,1x1,4,Pea seeds,45,59,118,4.866666666666666,True
+peas,19,3,spring,1x1,4,Pea seeds,45,59,177,6.947368421052632,True
+peas,23,4,spring,1x1,4,Pea seeds,45,59,236,8.304347826086957,True
+peas,27,5,spring,1x1,4,Pea seeds,45,59,295,9.25925925925926,True
+soybean,7,1,spring,1x1,5,Soybean seeds,20,19,19,-0.14285714285714285,True
+blueberry,10,1,summer,1x1,6,Blueberry seeds,50,41,41,-0.9,True
+chard,6,1,spring,1x1,4,Chard seeds,50,111,111,10.166666666666666,False
+iris,10,1,summer,1x1,4,Iris seeds,30,102,102,7.2,False
+pumpkin,13,1,fall,1x1,5,Pumpkin seeds,90,116,116,2.0,True
+pumpkin,20,2,fall,1x1,5,Pumpkin seeds,90,116,232,7.1,True
+pumpkin,27,3,fall,1x1,5,Pumpkin seeds,90,116,348,9.555555555555555,True
+lettuce,5,1,spring,1x1,4,Lettuce seeds,20,47,47,5.4,False
+tomato,10,1,summer,1x1,5,Tomato seeds,25,34,34,0.9,True
+rice,9,1,fall,1x1,6,Rice seeds,15,46,46,3.4444444444444446,False
+blackberry,11,1,summer,1x1,4,Blackberry seeds,40,41,41,0.09090909090909091,True
+potato,5,1,spring,1x1,6,Potato seeds,25,75,75,10.0,False
+sugarcane,5,1,spring,1x1,4,Sugarcane seeds,50,23,23,-5.4,True
+soybean,11,2,spring,1x1,5,Soybean seeds,20,19,38,1.6363636363636365,True
+soybean,15,3,spring,1x1,5,Soybean seeds,20,19,57,2.466666666666667,True
+soybean,19,4,spring,1x1,5,Soybean seeds,20,19,76,2.9473684210526314,True
+soybean,23,5,spring,1x1,5,Soybean seeds,20,19,95,3.260869565217391,True
+soybean,27,6,spring,1x1,5,Soybean seeds,20,19,114,3.4814814814814814,True
+coffee bean,11,1,summer,1x1,4,Coffee seeds,70,25,25,-4.090909090909091,True
+daisy,4,1,spring,1x1,6,Daisy seeds,15,40,40,6.25,False
+strawberry,14,2,spring,1x1,4,Strawberry seeds,145,102,204,4.214285714285714,True
+strawberry,18,3,spring,1x1,4,Strawberry seeds,145,102,306,8.944444444444445,True
+strawberry,22,4,spring,1x1,4,Strawberry seeds,145,102,408,11.954545454545455,True
+strawberry,26,5,spring,1x1,4,Strawberry seeds,145,102,510,14.038461538461538,True
+peony,4,1,spring,1x1,6,Peony seeds,20,42,42,5.5,False
+sugarcane,6,2,spring,1x1,4,Sugarcane seeds,50,23,46,-0.6666666666666666,True
+sugarcane,7,3,spring,1x1,4,Sugarcane seeds,50,23,69,2.7142857142857144,True
+sugarcane,8,4,spring,1x1,4,Sugarcane seeds,50,23,92,5.25,True
+sugarcane,9,5,spring,1x1,4,Sugarcane seeds,50,23,115,7.222222222222222,True
+sugarcane,10,6,spring,1x1,4,Sugarcane seeds,50,23,138,8.8,True
+sugarcane,11,7,spring,1x1,4,Sugarcane seeds,50,23,161,10.090909090909092,True
+sugarcane,12,8,spring,1x1,4,Sugarcane seeds,50,23,184,11.166666666666666,True
+sugarcane,13,9,spring,1x1,4,Sugarcane seeds,50,23,207,12.076923076923077,True
+sugarcane,14,10,spring,1x1,4,Sugarcane seeds,50,23,230,12.857142857142858,True
+sugarcane,15,11,spring,1x1,4,Sugarcane seeds,50,23,253,13.533333333333333,True
+sugarcane,16,12,spring,1x1,4,Sugarcane seeds,50,23,276,14.125,True
+sugarcane,17,13,spring,1x1,4,Sugarcane seeds,50,23,299,14.647058823529411,True
+sugarcane,18,14,spring,1x1,4,Sugarcane seeds,50,23,322,15.11111111111111,True
+sugarcane,19,15,spring,1x1,4,Sugarcane seeds,50,23,345,15.526315789473685,True
+sugarcane,20,16,spring,1x1,4,Sugarcane seeds,50,23,368,15.9,True
+sugarcane,21,17,spring,1x1,4,Sugarcane seeds,50,23,391,16.238095238095237,True
+sugarcane,22,18,spring,1x1,4,Sugarcane seeds,50,23,414,16.545454545454547,True
+sugarcane,23,19,spring,1x1,4,Sugarcane seeds,50,23,437,16.82608695652174,True
+sugarcane,24,20,spring,1x1,4,Sugarcane seeds,50,23,460,17.083333333333332,True
+sugarcane,25,21,spring,1x1,4,Sugarcane seeds,50,23,483,17.32,True
+sugarcane,26,22,spring,1x1,4,Sugarcane seeds,50,23,506,17.53846153846154,True
+sugarcane,27,23,spring,1x1,4,Sugarcane seeds,50,23,529,17.74074074074074,True
+sugarcane,28,24,spring,1x1,4,Sugarcane seeds,50,23,552,17.928571428571427,True
+corn,12,1,summer,1x1,6,Corn seeds,25,24,24,-0.08333333333333333,True
+sweet potato,9,1,fall,1x1,6,Sweet potato seeds,60,30,30,-3.3333333333333335,True
+sweet potato,13,2,fall,1x1,6,Sweet potato seeds,60,30,60,0.0,True
+sweet potato,17,3,fall,1x1,6,Sweet potato seeds,60,30,90,1.7647058823529411,True
+sweet potato,21,4,fall,1x1,6,Sweet potato seeds,60,30,120,2.857142857142857,True
+sweet potato,25,5,fall,1x1,6,Sweet potato seeds,60,30,150,3.6,True
+taro root,5,1,fall,1x1,4,Taro root seeds,35,24,24,-2.2,True
+taro root,7,2,fall,1x1,4,Taro root seeds,35,24,48,1.8571428571428572,True
+taro root,9,3,fall,1x1,4,Taro root seeds,35,24,72,4.111111111111111,True
+taro root,11,4,fall,1x1,4,Taro root seeds,35,24,96,5.545454545454546,True
+taro root,13,5,fall,1x1,4,Taro root seeds,35,24,120,6.538461538461538,True
+taro root,15,6,fall,1x1,4,Taro root seeds,35,24,144,7.266666666666667,True
+taro root,17,7,fall,1x1,4,Taro root seeds,35,24,168,7.823529411764706,True
+taro root,19,8,fall,1x1,4,Taro root seeds,35,24,192,8.263157894736842,True
+taro root,21,9,fall,1x1,4,Taro root seeds,35,24,216,8.619047619047619,True
+taro root,23,10,fall,1x1,4,Taro root seeds,35,24,240,8.91304347826087,True
+taro root,25,11,fall,1x1,4,Taro root seeds,35,24,264,9.16,True
+taro root,27,12,fall,1x1,4,Taro root seeds,35,24,288,9.37037037037037,True
+tea leaf,11,1,winter,1x1,3,Tea seed,25,68,68,3.909090909090909,False
+melon,12,1,summer,1x1,5,Melon seeds,130,233,233,8.583333333333334,False
+tomato,14,2,summer,1x1,5,Tomato seeds,25,34,68,3.0714285714285716,True
+tomato,18,3,summer,1x1,5,Tomato seeds,25,34,102,4.277777777777778,True
+tomato,22,4,summer,1x1,5,Tomato seeds,25,34,136,5.045454545454546,True
+tomato,26,5,summer,1x1,5,Tomato seeds,25,34,170,5.576923076923077,True
+turnip,4,1,spring,1x1,6,Turnip seeds,15,40,40,6.25,False
+watermelon,11,1,fall,1x1,3,Watermelon seeds,50,105,105,5.0,False
+starfruit,13,1,summer,1x1,5,Starfruit seeds,60,108,108,3.6923076923076925,False
